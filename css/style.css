@@ -1,0 +1,98 @@
+body {
+
+}
+
+.container {
+    border-bottom: solid pink 3px;
+    overflow: hidden;
+    height: 150px;
+}
+
+.nav-modified {
+    position: relative;
+    bottom: 164px;
+    font-size: 18px;
+}
+
+.name {
+    position: relative;
+    font-family: 'Playfair Display', serif;
+    bottom: 65px;
+    left: 105px;
+    color: pink;
+    font-size: 48px;
+}
+
+.nav-link {
+    color:pink;
+}
+
+.nav-link:hover {
+    color:lightgreen;
+    text-decoration:underline;
+}
+
+.main-container {
+    background-image:url("../images/background.jpg");
+    background-color:white;
+    background-repeat:repeat;
+
+
+}
+
+.top-card {
+    position:relative;
+    top:70px;
+    padding-bottom:150px;
+    /* margin-bottom:150px; */
+    margin-left:450px;
+    
+}
+
+.foot-container {
+    /* margin-top:150px; */
+    
+}
+
+    
+.foot-content {
+    border-top:pink solid 3px;
+    border-bottom:pink solid 3px;
+    width:1000px;
+    margin-left:150px;
+    height:65px;
+}
+
+.favicon {
+    position: relative;
+    left: 462px;
+    top: 13px;
+}
+
+.top-card-body {
+    background-color:pink;
+}
+
+.card-title {
+    font-family: 'Old Standard TT', serif;
+    text-align:center;
+    background-color:pink;
+}
+
+.card-text {
+    font-family: 'Old Standard TT', serif;
+}
+
+.list-group-item {
+    font-family: 'Old Standard TT', serif;
+    text-align:center;
+    background-color:pink;
+}
+
+.card-link {
+    font-family: 'Old Standard TT', serif;
+    position:relative;
+    left:88px;
+    background-color:pink;
+    text-decoration:none;
+}
