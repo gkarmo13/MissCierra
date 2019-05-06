@@ -99,3 +99,18 @@ h5 {
     color:white;
     font-family: 'Frank Ruhl Libre', serif;
 }
+
+/* Carosoul */
+.carousel-inner .carousel-item img {
+    margin:auto
+}
+
+/* Contact Text */
+label {
+    color:white;
+}
+
+/* Form Margin */
+.form-group {
+    margin-top:25px;
+}
