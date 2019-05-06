@@ -1,98 +1,60 @@
 body {
+    background-color:#130110!important;
 
 }
 
-.container {
-    border-bottom: solid pink 3px;
-    overflow: hidden;
-    height: 150px;
+/* Header Height */
+.p-3 {
+    height: 164px;
+    padding: 1rem!important;
 }
 
-.nav-modified {
-    position: relative;
-    bottom: 164px;
-    font-size: 18px;
+/* Header Background Color */
+.bg-white {
+    background-color: #130110!important;
 }
 
-.name {
-    position: relative;
-    font-family: 'Playfair Display', serif;
-    bottom: 65px;
-    left: 105px;
-    color: pink;
-    font-size: 48px;
+/* Header Company Text Name */
+h5 {
+    font-size: 1.25rem;
+    color: white;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size:45px;
 }
 
-.nav-link {
-    color:pink;
+/* Header Nav Links */
+.nav-links {
+    color:white;
+    font-family: 'Frank Ruhl Libre', serif;
 }
 
-.nav-link:hover {
-    color:lightgreen;
-    text-decoration:underline;
+/* Image Height */
+.img-fluid {
+    max-width: 100%;
+    height: 500px;
 }
 
-.main-container {
-    background-image:url("../images/background.jpg");
-    background-color:white;
-    background-repeat:repeat;
-
-
-}
-
-.top-card {
-    position:relative;
-    top:70px;
-    padding-bottom:150px;
-    /* margin-bottom:150px; */
-    margin-left:450px;
-    
-}
-
-.foot-container {
-    /* margin-top:150px; */
-    
-}
-
-    
-.foot-content {
-    border-top:pink solid 3px;
-    border-bottom:pink solid 3px;
-    width:1000px;
-    margin-left:150px;
-    height:65px;
-}
-
-.favicon {
-    position: relative;
-    left: 462px;
-    top: 13px;
-}
-
-.top-card-body {
-    background-color:pink;
-}
-
-.card-title {
-    font-family: 'Old Standard TT', serif;
+/* Pic Col Center */
+.pic-col {
     text-align:center;
-    background-color:pink;
 }
 
-.card-text {
-    font-family: 'Old Standard TT', serif;
-}
-
-.list-group-item {
-    font-family: 'Old Standard TT', serif;
+/* Body Head Col Center */
+.body-head {
     text-align:center;
-    background-color:pink;
+    
 }
 
-.card-link {
-    font-family: 'Old Standard TT', serif;
-    position:relative;
-    left:88px;
-    background-color:pink;
-    text-decoration:none;
+/* Card Background/Text Color */
+.card-body {
+    background-color:#130110;
+    color:white;
+    font-size:50px;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+/* Card Border */
+.my-card {
+    background-color:#130110;
+
 }
