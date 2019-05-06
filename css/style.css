@@ -87,3 +87,15 @@ h5 {
     color:white;
 }
 
+/* About Media Margin */
+.about-media {
+    margin-top:40px;
+}
+
+
+/* About Media Text */
+.about-media-text {
+    text-align:center;
+    color:white;
+    font-family: 'Frank Ruhl Libre', serif;
+}
