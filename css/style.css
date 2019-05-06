@@ -58,3 +58,22 @@ h5 {
     background-color:#130110;
 
 }
+
+/* Links Center */
+.body-links {
+    text-align:center;
+}
+
+/* Main Card Links Background */
+.main-card {
+    background-color:#130110;
+    color:white;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+
+/* Center Lists Links */
+.list-contain {
+    display:inline-block;
+}
+
